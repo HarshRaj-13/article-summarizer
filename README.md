@@ -10,7 +10,7 @@
 3. ⚙️ [Tech Stack](#tech-stack)
 4. 🔋 [Features](#features)
 
-## <a name="links">🔗 Links</a>
+## <a name="links">🔗 Demo</a>
 You can see a live demo of this website [here.](https://chat-summarizer.netlify.app/)
 
 ## <a name="introduction">🤖 Introduction</a>
