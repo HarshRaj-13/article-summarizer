@@ -14,7 +14,7 @@
 You can see a live demo of this website [here.](https://chat-summarizer.netlify.app/)
 
 ## <a name="introduction">🤖 Introduction</a>
-Summarize any kind of article with just one click using the powerful OpenAI model.
+Summarize any kind of article with just one click using the powerful OpenAI model.It turns lengthy articles into quick summaries Just by  pasting a link of an article.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 - React.js
